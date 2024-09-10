@@ -4,4 +4,4 @@ Hello. Welcome to my project. Honestly, I'm not sure if this readme.md document 
 ## Chocolate cookies. 
 There's a bunch of provided test functions inside this project. Use as you see fit. 
 
-![IntelliJ screenshot.png](IntelliJ%20screenshot.png)
+![IntelliJ screenshot.png](../../../../IntelliJ%20screenshot.png)
